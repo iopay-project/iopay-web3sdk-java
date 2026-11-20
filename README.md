@@ -33,7 +33,7 @@ The bridge side is where most of the risk sits. IoTube moves assets between IoTe
 - **The unstaking gap, made visible.** Turning stake-lock off starts a countdown; withdrawing is a second action about three days later.
 - **DePIN income in the same place.** Device earnings, burn-drop allocations per staking bucket and ioID registration sit alongside the staking position they attach to.
 
-## What the value side looks like
+## What the value side looks like?
 
 A staking position is a bucket with an identifier, not a line in a balance. The minimum is 100 IOTX, durations run up to 1050 days in seven-day steps, and the tokens returned on withdrawal are the staked amount plus rewards rather than the vote weight shown beside a validator. Readers lose time on that last distinction: a stake of seventy thousand IOTX can display a larger vote number, and the vote number is not what comes back.
 
